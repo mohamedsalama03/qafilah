@@ -23,7 +23,7 @@ $secureHash = generateSecureHash($rawData, SECRET_KEY);
 <head>
   <meta charset="UTF-8">
   <title>دفع عبر معاملات</title>
-  <script src="https://npg.moamalat.net:6006/js/lightbox.js"></script>
+  <script src="https://tnpg.moamalat.net:6006/js/lightbox.js"></script>
 </head>
 <body>
 
